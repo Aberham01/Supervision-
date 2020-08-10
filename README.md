@@ -1,7 +1,5 @@
-Supervision-
+﻿Supervision-
 ==============================
-
-Supervision-
 
 Project Organization
 ------------
